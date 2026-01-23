@@ -350,7 +350,6 @@ print(response)
 # %%
 # Re-examine job dataset structure
 job.info()
-# TODO: Summarize the missing values
 
 # %%
 # Summarize missing values in the job dataset
